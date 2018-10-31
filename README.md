@@ -1,3 +1,3 @@
 # hello-world
-testi projekti
+testi
 Hou Hou Joulu on tulossa
